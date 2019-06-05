@@ -51,7 +51,6 @@ all the words that are banned:
 "knobend",
 "knob end",
 "labia",
-"lmao",
 "lmfao",
 "muff",
 "nigger",
