@@ -44,7 +44,6 @@ all the words that are banned:
 "flange",
 "Goddamn",
 "God damn",
-"hell",
 "homo",
 "jerk",
 "jizz",
